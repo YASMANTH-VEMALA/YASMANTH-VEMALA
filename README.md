@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Yasmanth Vemala! 👋
 
-<!--
-**YASMANTH-VEMALA/YASMANTH-VEMALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineer dedicated to building efficient, scalable, and user-centric applications. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on enhancing my full-stack development skills.
+- 🌱 I’m currently learning advanced system design and cloud architecture.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Java, React, Python, or Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** Java, Python, JavaScript, TypeScript, C++
+- **Frontend:** React, Redux, HTML5, CSS3
+- **Backend:** Node.js, Express, Spring Boot
+- **Databases:** PostgreSQL, MongoDB, MySQL
+
+---
+"Strive for progress, not perfection."
